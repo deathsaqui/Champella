@@ -2377,4 +2377,4 @@
 [22/04/23, 14:49:04] Usuario: ¿Qué es la agencia de marketing de Bralamba?
 [22/04/23, 14:50:00] Champella: Bralamba es una agencia de marketing especializada en ayudar a empresas y creadores de contenido a mejorar su presencia en línea mediante sus servicios de todo tipo para llevarlo a cabo.
 [22/04/23, 19:27:28] Usuario: Tengo hambre
-[22/04/23, 19:27:36] Champella: Si tienes hambre deberías comer algo
+[22/04/23, 19:27:36] Champella: Si tienes hambre deberías comer algo.

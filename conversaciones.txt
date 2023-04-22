@@ -2378,3 +2378,7 @@
 [22/04/23, 14:50:00] Champella: Bralamba es una agencia de marketing especializada en ayudar a empresas y creadores de contenido a mejorar su presencia en línea mediante sus servicios de todo tipo para llevarlo a cabo.
 [22/04/23, 19:27:28] Usuario: Tengo hambre
 [22/04/23, 19:27:36] Champella: Si tienes hambre deberías comer algo.
+[22/04/23, 19:41:45] Usuario: A mí muy bien, ¿y a tí?
+[22/04/23, 19:42:07] Champella: ¡A mi también!, ¿necesitas ayuda en algo?
+[22/04/23, 19:42:12] Usuario: No sé de qué me estás hablando.
+[22/04/23, 19:42:23] Champella: Lo siento, parece que me he equivocado en mi respuesta anterior.

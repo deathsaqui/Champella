@@ -8,7 +8,7 @@ warnings.filterwarnings("ignore", message=".*evaluating Doc.similarity based on 
 nlp = spacy.load('es_core_news_md')
 
 # Abrir archivo de conversaciones
-with open('conversaciones.txt', 'r', encoding='rb') as f:
+with open('conversaciones.txt', 'r', encoding='iso-8859-1') as f:
     conversaciones = f.read()
 
 # Remover puntos finales de Isaac
